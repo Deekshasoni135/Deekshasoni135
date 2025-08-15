@@ -1,22 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deeksha Soni</h1>
-<h3 align="center">Aspiring Data Analyst from India | Passionate about Leveraging Data to Drive Decisions | Projects in SQL, Excel, Python & Power BI</h3>
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h3 align="center">Data Analyst from India | I love working with Data | Projects in SQL, Excel, Python & Power BI</h3>
 
 
-- 🔭 I’m currently working on **Building data analytics projects that focus on real-world business problems using SQL, Power BI, Excel, and Python.**
 
-- 🌱 I’m currently learning **A/B testing, statistical analysis, and advanced Python for data manipulation and automation.**
 
-- 👯 I’m looking to collaborate on **Open-source data analytics projects, dashboard building, and case study analysis using public datasets.**
+- Hi, I'm @Deekshasoni135
+- 🔭 I’m interested in **Data Analytics.**
+- 👯 I’m looking to collaborate on **interseting Data analysis projects.**
+- 📫 How to reach me: **Email: deeksha.soni13@gmail.com , LinkedIn: https://www.linkedin.com/in/itsdeekshasoni**
 
-- 🤝 I’m looking for help with **Improving my storytelling through data visualizations and mastering complex SQL queries.**
-
-- 💬 Ask me about **Data cleaning, Excel dashboards, Power BI reports, SQL queries**
-
-- 📫 How to reach me **deeksha.soni13@gmail.com**
-
-- ⚡ Fun fact **I love transforming messy data into meaningful insights — and coffee helps fuel my analysis sessions!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
